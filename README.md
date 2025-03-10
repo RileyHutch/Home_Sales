@@ -46,3 +46,6 @@ The analysis uses a dataset of home sales containing the following fields:
   - Uncached runtime: ~0.77 seconds
   - Cached runtime: ~0.47 seconds (39% improvement)
   - Partitioned data runtime: ~0.62 seconds (19% improvement over uncached)
+
+## Tools Used
+- For this project I used files from module 22: Big Data and module 9: SQL, as well as Claude to help work through errors.
